@@ -13,7 +13,6 @@
 
 - **Frontend**: React.js
 - **Styling**: Tailwind CSS
-- **Conversion Method**: [mention any package or logic used here, like `html-pdf`, `pdf-lib`, or an API]
 
 ## 📦 Getting Started
 
@@ -21,7 +20,7 @@ To run this project locally:
 
 bash
 # Clone the repository
-git clone https://github.com/your-username/DOCX2PDF.git
+git clone https://github.com/Diwakar j/DOCX2PDF.git
 
 # Navigate to the project directory
 cd DOCX2PDF
